@@ -67,7 +67,7 @@ If the built product does not meet your requirements, you can choose to build it
 ### Get the Code
 
 ```
-git clone --recursive https://github.com/leejet/stable-diffusion.cpp
+git clone --recursive https://github.com/ElMiloPy/stable-diffusion.cpp
 cd stable-diffusion.cpp
 ```
 
